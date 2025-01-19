@@ -30,7 +30,7 @@ def q_exit():
 def price():
     roo = Tk()
     roo.geometry("600x220")
-    roo.title("Price List")
+    roo.title("Price List Data")
     x = Frame(roo, width=600, height=220, relief=SUNKEN)
     x.pack(side=TOP)
 
